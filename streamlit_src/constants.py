@@ -1,0 +1,4 @@
+EMBEDDING_MODEL_NAME = "text-embedding-3-small"
+CHAT_MODEL_NAME = "gpt-3.5-turbo"
+MAX_TOKENS = 300
+N_SIMILAR_DOCUMENTS = 5
